@@ -1,2 +1,2 @@
 # CLONE
- Clones Website
+ Cloned Website
